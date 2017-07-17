@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yana kayan yazı ve renk degıstıren noktalar", "yana kayan yazı ve renk degıstıren noktalar\yana kayan yazı ve renk degıstıren noktalar.csproj", "{2293061F-E917-4D2D-8CFA-FCF59DF6A1BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2293061F-E917-4D2D-8CFA-FCF59DF6A1BD}.Debug|x86.ActiveCfg = Debug|x86
+		{2293061F-E917-4D2D-8CFA-FCF59DF6A1BD}.Debug|x86.Build.0 = Debug|x86
+		{2293061F-E917-4D2D-8CFA-FCF59DF6A1BD}.Release|x86.ActiveCfg = Release|x86
+		{2293061F-E917-4D2D-8CFA-FCF59DF6A1BD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

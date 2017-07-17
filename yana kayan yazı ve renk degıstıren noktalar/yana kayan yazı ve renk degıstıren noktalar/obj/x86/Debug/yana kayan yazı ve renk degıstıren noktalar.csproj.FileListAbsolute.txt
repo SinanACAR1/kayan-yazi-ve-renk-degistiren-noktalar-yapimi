@@ -1,0 +1,9 @@
+C:\Users\arcelik\AppData\Local\Temporary Projects\yana kayan yazı ve renk degıstıren noktalar\bin\Debug\yana kayan yazı ve renk degıstıren noktalar.exe
+C:\Users\arcelik\AppData\Local\Temporary Projects\yana kayan yazı ve renk degıstıren noktalar\bin\Debug\yana kayan yazı ve renk degıstıren noktalar.pdb
+C:\Users\arcelik\AppData\Local\Temporary Projects\yana kayan yazı ve renk degıstıren noktalar\obj\x86\Debug\yana_kayan_yazı_ve_renk_degıstıren_noktalar.Form1.resources
+C:\Users\arcelik\AppData\Local\Temporary Projects\yana kayan yazı ve renk degıstıren noktalar\obj\x86\Debug\yana_kayan_yazı_ve_renk_degıstıren_noktalar.Properties.Resources.resources
+C:\Users\arcelik\AppData\Local\Temporary Projects\yana kayan yazı ve renk degıstıren noktalar\obj\x86\Debug\yana kayan yazı ve renk degıstıren noktalar.csproj.GenerateResource.Cache
+C:\Users\arcelik\AppData\Local\Temporary Projects\yana kayan yazı ve renk degıstıren noktalar\obj\x86\Debug\yana kayan yazı ve renk degıstıren noktalar.exe
+C:\Users\arcelik\AppData\Local\Temporary Projects\yana kayan yazı ve renk degıstıren noktalar\obj\x86\Debug\yana kayan yazı ve renk degıstıren noktalar.pdb
+C:\Users\arcelik\documents\visual studio 2010\Projects\yana kayan yazı ve renk degıstıren noktalar\yana kayan yazı ve renk degıstıren noktalar\obj\x86\Debug\yana kayan yazı ve renk degıstıren noktalar.exe
+C:\Users\arcelik\documents\visual studio 2010\Projects\yana kayan yazı ve renk degıstıren noktalar\yana kayan yazı ve renk degıstıren noktalar\obj\x86\Debug\yana kayan yazı ve renk degıstıren noktalar.pdb
